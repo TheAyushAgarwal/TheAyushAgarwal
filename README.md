@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayush Agarwal</h1>
+<h1 align="center">Hi 👋, I'm 𝓐𝔂𝓾𝓼𝓱 𝓐𝓰𝓪𝓻𝔀𝓪𝓵</h1>
 <h3 align="center">𝐻𝑒𝓎 𝐸𝓋𝑒𝓇𝓎𝑜𝓃𝑒, 𝐼'𝓂 𝓐𝔂𝓾𝓼𝓱 𝓐𝓰𝓪𝓻𝔀𝓪𝓵 , 𝒸𝓊𝓇𝓇𝑒𝓃𝓉𝓁𝓎 𝓅𝓊𝓇𝓈𝓊𝒾𝓃𝑔 𝓂𝓎 𝐵.𝒯𝑒𝒸𝒽 𝒹𝑒𝑔𝓇𝑒𝑒 𝒾𝓃 𝓒𝓸𝓶𝓹𝓾𝓽𝓮𝓻 𝓼𝓬𝓲𝓮𝓷𝓬𝓮 & 𝓔𝓷𝓰𝓲𝓷𝓮𝓮𝓻𝓲𝓷𝓰 𝒟𝑒𝓅𝒶𝓇𝓉𝓂𝑒𝓃𝓉 𝒻𝓇𝑜𝓂 𝒜𝓈𝒶𝓃𝓈𝑜𝓁 𝐸𝓃𝑔𝒾𝓃𝑒𝑒𝓇𝒾𝓃𝑔 𝒞𝑜𝓁𝓁𝑒𝑔𝑒</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theayushagarwal&label=Profile%20views&color=0e75b6&style=flat" alt="theayushagarwal" /> </p>
