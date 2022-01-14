@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Java Programming**
 
-- 📫 How to reach me **ayushagarwal202001@gmail.com**
+- 📫 How to reach me **https://instagram.com/my_self.ayush**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/my_self_ayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="my_self_ayush" height="30" width="40" /></a>
-<a href="https://fb.com/ayush agarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayush%20agarwal" height="30" width="40" /></a>
-<a href="https://instagram.com/my_self.ayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="my_self.ayush" height="30" width="40" /></a>
+<a href="https://fb.com/ayush agarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayush agarwal" height="30" width="40" /></a>
+<a href="https://instagram.com/my_self_ayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="my_self_ayush" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ayushagarwal2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayushagarwal2021" height="30" width="40" /></a>
 <a href="https://discord.gg/08_ayush Agarwal#0273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="08_ayush Agarwal#0273" height="30" width="40" /></a>
 </p>
